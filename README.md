@@ -1,14 +1,29 @@
-# About Me
+## 👋 About Me
 
-I am a highly motivated, self-taught student with a strong passion for theoretical physics, quantum field theory (QFT), Linux, networking, cybersecurity, and Python programming. Currently in high school, I dedicate my time to exploring advanced topics beyond the traditional curriculum, with a focus on complex systems, security, and the foundational principles of computing and physics.
+I'm **Jexi** — a full-stack developer and theoretical physics enthusiast. 
 
-I thrive on tackling challenging problems, building innovative projects, and continuously expanding my knowledge in these fields. I am eager to collaborate with like-minded individuals, contribute to meaningful projects, and push the boundaries of what’s possible.
+* 🔭 Building SaaS platforms, web apps, and mobile apps
+* 🧠 Self-taught in modern tools and theoretical concepts
+* 📍 Working with real-world constraints
+* 🌌 Currently diving deep into QFT
 
-## Fields of Interest
+---
 
-- **Theoretical Physics & Quantum Field Theory (QFT):** Exploring the fundamental laws of nature and the mathematical frameworks that describe them.
-- **Linux & Networking:** Leveraging the power of open-source systems and understanding the intricacies of network architecture and protocols.
-- **Cybersecurity & Ethical Hacking:** Developing skills to identify vulnerabilities, secure systems, and protect digital infrastructure.
-- **Python Development:** Building efficient, scalable, and innovative solutions using Python.
+## 🛰 Tech Orbit
 
-Let’s connect, collaborate, and work together to build, break, and secure the future. 🚀
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,typescript,appwrite,supabase,tailwind,js,html,css,sqlite" />
+</p>
+
+
+## 🔬 Fields of Interest
+
+* Computer Science
+* Theoretical Physics 
+
+## 📈 GitHub Stats
+
+<p align="center" style="display: flex; justify-content: center; gap: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=jexipedia&show_icons=true&theme=dark&hide_border=true" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jexipedia&layout=compact&theme=dark&hide_border=true" width="45%" />
+</p>
