@@ -30,7 +30,7 @@ Check out my portfolio site:
 
 <h2>🛰 Tech Orbit</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,typescript,appwrite,supabase,tailwind,js,html,css,sqlite,python" />
+  <img src="https://skillicons.dev/icons?i=react,typescript,appwrite,supabase,tailwind,js,html,css,sqlite,python,vercel" />
 </p>
 
 </td>
